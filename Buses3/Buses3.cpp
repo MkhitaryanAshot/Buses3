@@ -1,7 +1,10 @@
+#include "Exercise1.h"
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Exercise1 ob;
+
+    ob.Execute();
 }
 
