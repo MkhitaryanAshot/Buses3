@@ -143,11 +143,13 @@
     <ClCompile Include="Exercise1.cpp" />
     <ClCompile Include="Exercise2.cpp" />
     <ClCompile Include="Exercise3.cpp" />
+    <ClCompile Include="Graph.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exercise1.h" />
     <ClInclude Include="Exercise2.h" />
     <ClInclude Include="Exercise3.h" />
+    <ClInclude Include="Graph.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
